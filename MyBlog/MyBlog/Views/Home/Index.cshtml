@@ -1,0 +1,84 @@
+﻿@model MyBlog.Models.ViewModels.HomeViewModel
+
+
+
+<div class="container col-xxl-8 px-4 py-5">
+    <div class="row align-items-center g-5 py-5">
+        <div class="col-12 col-lg-6">
+            <h1 class="display-5 fw-bold lh-1 mb-3">
+                Hels Blog
+            </h1>
+            <p class="lead">
+                In this blog, I’ll be sharing my passion for art in all its forms; paintings, sketches, various art styles, and beyond. Art has always been a profound source of inspiration and expression for me, and I’m excited to explore its endless possibilities together.
+
+                Additionally, I’ll delve into the fascinating world of mythology, uncovering the stories, symbols, and timeless wisdom that have shaped cultures and imaginations throughout history.
+
+            </p>
+        </div>
+
+        <div class="col-12 col-lg-6">
+            <img src="https://i.pinimg.com/736x/4d/6f/19/4d6f194835b78626ac25c3153e67c1c1.jpg" 
+            alt="The Birth of The Venus - Sandro Boticelli"
+            class="d-block ms-lg-auto img-fluid" width="300"/>
+        </div>
+    </div>
+</div>
+
+<div class="container ">
+    <div class="row justify-content-center">
+        <div class="col-6 d-flex">
+            @if(Model != null && Model.Tags.Any())
+            {
+                foreach(var tag in Model.Tags)
+                {
+                    <span class="badge bg-secondary me-1">
+                        @tag.Name
+                    </span>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="justify-content-center">
+        <div class="col-6">
+            @if(Model != null && Model.BlogPosts.Any())
+            {
+                @foreach(var blogPosts in Model.BlogPosts)
+                {
+                    <div class="mb-5 bg-light box-shadow ">
+                        <img src="@blogPosts.FeaturedImageUrl" 
+                        alt="@blogPosts.Title" 
+                        class="mb-2 d-block img-fluid"/>
+
+                        <h2 class="mb-2">@blogPosts.Title</h2>
+
+                        <p class="mb-2">
+                            Author: @blogPosts.Author <br />
+                            Date: @blogPosts.PublishedDate
+                        </p>
+
+                        <p class="mb-4">
+                            @foreach(var tag in blogPosts.Tags)
+                            {
+                                <span class="badge bg-secondary me-1">@tag.Name</span>
+                            }
+                        </p>
+
+                        <p class="mb-2">
+                            @blogPosts.ShortDescription
+                        </p>
+
+                        <a class="btn btn-dark" 
+                        asp-area=""
+                        asp-controller="Blogs"
+                        asp-action="Index"
+                        asp-route-urlHandle="@blogPosts.UrlHandle"
+                        >Read More</a>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

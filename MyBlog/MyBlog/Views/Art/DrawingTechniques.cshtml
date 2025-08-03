@@ -1,0 +1,23 @@
+@model IEnumerable<MyBlog.Models.Domain.BlogPost>
+
+@{
+    ViewData["Title"] ??= "Bloglar";
+}
+@if (Model == null || !Model.Any())
+{
+    <p>Bu kategoriye ait blog yazısı bulunamadı.</p>
+}
+else
+{
+    foreach (var post in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+                <h4>@post.Title</h4>
+                <p>@post.ShortDescription</p>
+                <p><strong>Yazar:</strong> @post.Author | <strong>Tarih:</strong> @post.PublishedDate?.ToShortDateString()</p>
+                <a class="btn btn-outline-primary" asp-controller="Blogs" asp-action="Detail" asp-route-urlHandle="@post.UrlHandle">Devamını Oku</a>
+            </div>
+        </div>
+    }
+}

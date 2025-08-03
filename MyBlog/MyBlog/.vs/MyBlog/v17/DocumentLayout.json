@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\inspiration\\motivation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\inspiration\\motivation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\inspiration\\inspirational.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\inspiration\\inspirational.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\inspiration\\creativity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\inspiration\\creativity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\art\\mydrawings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\art\\mydrawings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\art\\drawingtechniques.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\art\\drawingtechniques.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\art\\artworkanalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\art\\artworkanalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\art\\artmovements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\art\\artmovements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\repositories\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:repositories\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\repositories\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:repositories\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\models\\viewmodels\\blogdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:models\\viewmodels\\blogdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|c:\\users\\helin\\desktop\\myblog\\myblog\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A23202-01E5-4B55-BAD5-89601627922B}|MyBlog.csproj|solutionrelative:controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\BlogPostLikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\BlogPostLikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\IBlogPostLikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IBlogPostLikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\BlogPostLikeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BlogPostLikeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Models\\ViewModels\\AddLikeRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ViewModels\\AddLikeRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtworkAnalysis.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\ArtworkAnalysis.cshtml",
+              "RelativeDocumentMoniker": "Views\\Art\\ArtworkAnalysis.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\ArtworkAnalysis.cshtml",
+              "RelativeToolTip": "Views\\Art\\ArtworkAnalysis.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:28:08.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creativity.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Inspiration\\Creativity.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inspiration\\Creativity.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Inspiration\\Creativity.cshtml",
+              "RelativeToolTip": "Views\\Inspiration\\Creativity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T10:34:06.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrawingTechniques.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\DrawingTechniques.cshtml",
+              "RelativeDocumentMoniker": "Views\\Art\\DrawingTechniques.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\DrawingTechniques.cshtml",
+              "RelativeToolTip": "Views\\Art\\DrawingTechniques.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:28:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDrawings.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\MyDrawings.cshtml",
+              "RelativeDocumentMoniker": "Views\\Art\\MyDrawings.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\MyDrawings.cshtml",
+              "RelativeToolTip": "Views\\Art\\MyDrawings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:28:21.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inspirational.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Inspiration\\Inspirational.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inspiration\\Inspirational.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Inspiration\\Inspirational.cshtml",
+              "RelativeToolTip": "Views\\Inspiration\\Inspirational.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:28:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Motivation.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Inspiration\\Motivation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inspiration\\Motivation.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Inspiration\\Motivation.cshtml",
+              "RelativeToolTip": "Views\\Inspiration\\Motivation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:28:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtMovements.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\ArtMovements.cshtml",
+              "RelativeDocumentMoniker": "Views\\Art\\ArtMovements.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Art\\ArtMovements.cshtml",
+              "RelativeToolTip": "Views\\Art\\ArtMovements.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T14:28:02.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtController.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\ArtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtController.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\ArtController.cs",
+              "RelativeToolTip": "Controllers\\ArtController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:05:29.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\BlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\BlogPostRepository.cs",
+              "RelativeToolTip": "Repositories\\BlogPostRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:39:10.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\IBlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\IBlogPostRepository.cs",
+              "RelativeToolTip": "Repositories\\IBlogPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:38:47.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:17:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:27:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "Controllers\\SeedController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwF0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:25:36.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogPostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\BlogPostLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BlogPostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\BlogPostLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\BlogPostLikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:46:29.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBlogPostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\IBlogPostLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBlogPostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Repositories\\IBlogPostLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\IBlogPostLikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:45:38.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blogs\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:29:02.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogPostLikeController.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\BlogPostLikeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogPostLikeController.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\BlogPostLikeController.cs",
+              "RelativeToolTip": "Controllers\\BlogPostLikeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:32:01.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Models\\ViewModels\\BlogDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\BlogDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Models\\ViewModels\\BlogDetailsViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\BlogDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:28:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddLikeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Models\\ViewModels\\AddLikeRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AddLikeRequest.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Models\\ViewModels\\AddLikeRequest.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AddLikeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:33:49.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\AdminTagsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminTagsController.cs",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Controllers\\AdminTagsController.cs",
+              "RelativeToolTip": "Controllers\\AdminTagsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:35:08.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\helin\\Desktop\\MyBlog\\MyBlog\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:17:25.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
